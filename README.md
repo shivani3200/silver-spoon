@@ -26,10 +26,12 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivani3200/silver-spoon/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivani3200/silver-spoon/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivani3200/silver-spoon/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivani3200/silver-spoon/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -38,5 +40,6 @@ Happy coding!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivani3200/silver-spoon/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shivani3200/silver-spoon/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
