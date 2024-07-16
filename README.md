@@ -33,6 +33,7 @@ Happy coding!
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivani3200/silver-spoon/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shivani3200/silver-spoon/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/shivani3200/silver-spoon/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/shivani3200/silver-spoon/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -47,4 +48,9 @@ Happy coding!
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/shivani3200/silver-spoon/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/shivani3200/silver-spoon/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivani3200/silver-spoon/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
