@@ -50,6 +50,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/shivani3200/silver-spoon/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shivani3200/silver-spoon/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shivani3200/silver-spoon/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shivani3200/silver-spoon/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivani3200/silver-spoon/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/shivani3200/silver-spoon/tree/master/0494-target-sum) |
@@ -61,6 +62,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivani3200/silver-spoon/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivani3200/silver-spoon/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +71,13 @@ Happy coding!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivani3200/silver-spoon/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shivani3200/silver-spoon/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivani3200/silver-spoon/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivani3200/silver-spoon/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
