@@ -49,6 +49,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivani3200/silver-spoon/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/shivani3200/silver-spoon/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/shivani3200/silver-spoon/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivani3200/silver-spoon/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/shivani3200/silver-spoon/tree/master/0494-target-sum) |
@@ -60,4 +61,12 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivani3200/silver-spoon/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivani3200/silver-spoon/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivani3200/silver-spoon/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
