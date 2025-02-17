@@ -80,4 +80,12 @@ Happy coding!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivani3200/silver-spoon/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/shivani3200/silver-spoon/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/shivani3200/silver-spoon/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
