@@ -67,6 +67,7 @@ Happy coding!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivani3200/silver-spoon/tree/master/0075-sort-colors) |
+| [0908-middle-of-the-linked-list](https://github.com/shivani3200/silver-spoon/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +89,8 @@ Happy coding!
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/shivani3200/silver-spoon/tree/master/2384-root-equals-sum-of-children) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/shivani3200/silver-spoon/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
