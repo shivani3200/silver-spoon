@@ -92,5 +92,6 @@ Happy coding!
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivani3200/silver-spoon/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivani3200/silver-spoon/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
